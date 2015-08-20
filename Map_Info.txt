@@ -1,0 +1,4 @@
+Map data provider: 	https://mapzen.com/data/metro-extracts
+Map source: 		https://s3.amazonaws.com/metro-extracts.mapzen.com/liverpool_england.osm.bz2
+Description:		Liverpool (UK) metropolitan area
+Reason:				I chose Liverpool (UK), as it was my home for 20 years, thus any insights gained from the data analysis would be particularly interesting to me.

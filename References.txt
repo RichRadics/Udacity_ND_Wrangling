@@ -1,0 +1,16 @@
+References:
+
+Postcode matching regular expression:
+	http://stackoverflow.com/questions/164979/uk-postcode-regex-comprehensive (post by Colin)
+Regular expression online tester: 
+	http://regex101.com
+Date format update script (string->ISODate):
+	http://stackoverflow.com/questions/6475987/importing-date-datatype-using-mongoimport (post by webDEVILopers)
+Mongo DB structure analyser:
+	https://github.com/variety/variety
+MongoDB documentation	
+	http://docs.mongodb.org/
+PyMongo documentation
+	http://api.mongodb.org/python/current/index.html	
+	
+Miscellaneous stackoverflow pages.
